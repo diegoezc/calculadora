@@ -1,0 +1,42 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header-calculadora{
+    background-color: rgb(43, 43, 43);
+    width: 390px;
+    border-radius: 15px 15px 0px 0px;
+    color: white;
+}
+.input{
+    background-color: rgb(43, 43, 43);
+    text-align: right;
+    font-size: 2rem;
+    color: white;
+    width: 350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+}
+.body-formulario{
+    background-color: rgb(43, 43, 43);
+    width: 390px;
+    border-radius: 0px 0px 15px 15px;
+}
+.btn-formulario{
+    width: 80px;
+    height: 80px;
+    font-size: 2rem;
+    background-color: rgb(65, 65, 65);
+    border-radius: 50%;
+    color: white;
+    border: 0;
+}
+.btn-operacion{
+    width: 80px;
+    height: 80px;
+    font-size: 2rem;
+    background-color: rgb(228, 125, 7);
+    border-radius: 100px;
+    color: white;
+    border: 0;
+}
